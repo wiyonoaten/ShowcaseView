@@ -42,3 +42,7 @@ settings.xml
 build
 
 library/coverage-error.log
+BindingLibTestApp/obj/
+*.userprefs
+packages/
+AMLCurranShowcaseViewBindingLib.Android/obj/
