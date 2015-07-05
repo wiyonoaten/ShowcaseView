@@ -52,7 +52,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Xamarin.Android.Bindings.targets" />
   <ItemGroup>
-    <EmbeddedJar Include="..\library\build\com.github.amlcurran.showcaseview.jar">
+    <EmbeddedJar Include="..\library\build\zip\bin\com.github.amlcurran.showcaseview.jar">
       <Link>Jars\com.github.amlcurran.showcaseview.jar</Link>
     </EmbeddedJar>
   </ItemGroup>

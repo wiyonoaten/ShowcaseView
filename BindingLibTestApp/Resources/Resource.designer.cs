@@ -77,23 +77,23 @@ namespace BindingLibTestApp
 		public partial class Dimension
 		{
 			
-			// aapt resource value: 0x7f060000
-			public const int action_bar_offset = 2131099648;
+			// aapt resource value: 0x7f040000
+			public const int action_bar_offset = 2130968576;
 			
-			// aapt resource value: 0x7f060001
-			public const int button_margin = 2131099649;
+			// aapt resource value: 0x7f040001
+			public const int button_margin = 2130968577;
 			
-			// aapt resource value: 0x7f060002
-			public const int showcase_radius = 2131099650;
+			// aapt resource value: 0x7f040002
+			public const int showcase_radius = 2130968578;
 			
-			// aapt resource value: 0x7f060003
-			public const int showcase_radius_inner = 2131099651;
+			// aapt resource value: 0x7f040003
+			public const int showcase_radius_inner = 2130968579;
 			
-			// aapt resource value: 0x7f060004
-			public const int showcase_radius_outer = 2131099652;
+			// aapt resource value: 0x7f040004
+			public const int showcase_radius_outer = 2130968580;
 			
-			// aapt resource value: 0x7f060005
-			public const int text_padding = 2131099653;
+			// aapt resource value: 0x7f040005
+			public const int text_padding = 2130968581;
 			
 			static Dimension()
 			{
@@ -151,17 +151,17 @@ namespace BindingLibTestApp
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070003
-			public const int myButton = 2131165187;
+			// aapt resource value: 0x7f050003
+			public const int myButton = 2131034115;
 			
-			// aapt resource value: 0x7f070000
-			public const int showcase_button = 2131165184;
+			// aapt resource value: 0x7f050000
+			public const int showcase_button = 2131034112;
 			
-			// aapt resource value: 0x7f070001
-			public const int showcase_sub_text = 2131165185;
+			// aapt resource value: 0x7f050001
+			public const int showcase_sub_text = 2131034113;
 			
-			// aapt resource value: 0x7f070002
-			public const int showcase_title_text = 2131165186;
+			// aapt resource value: 0x7f050002
+			public const int showcase_title_text = 2131034114;
 			
 			static Id()
 			{
@@ -198,14 +198,14 @@ namespace BindingLibTestApp
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int app_name = 2130968577;
+			// aapt resource value: 0x7f060002
+			public const int app_name = 2131099650;
 			
-			// aapt resource value: 0x7f040000
-			public const int hello = 2130968576;
+			// aapt resource value: 0x7f060001
+			public const int hello = 2131099649;
 			
-			// aapt resource value: 0x7f040002
-			public const int ok = 2130968578;
+			// aapt resource value: 0x7f060000
+			public const int ok = 2131099648;
 			
 			static String()
 			{
@@ -220,29 +220,29 @@ namespace BindingLibTestApp
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int Mono_Android_Theme_Splash = 2131034112;
+			// aapt resource value: 0x7f070007
+			public const int Mono_Android_Theme_Splash = 2131165191;
 			
-			// aapt resource value: 0x7f050001
-			public const int ShowcaseButton = 2131034113;
+			// aapt resource value: 0x7f070000
+			public const int ShowcaseButton = 2131165184;
 			
-			// aapt resource value: 0x7f050002
-			public const int ShowcaseView = 2131034114;
+			// aapt resource value: 0x7f070001
+			public const int ShowcaseView = 2131165185;
 			
-			// aapt resource value: 0x7f050003
-			public const int ShowcaseView_Light = 2131034115;
+			// aapt resource value: 0x7f070002
+			public const int ShowcaseView_Light = 2131165186;
 			
-			// aapt resource value: 0x7f050004
-			public const int TextAppearance_ShowcaseView_Detail = 2131034116;
+			// aapt resource value: 0x7f070003
+			public const int TextAppearance_ShowcaseView_Detail = 2131165187;
 			
-			// aapt resource value: 0x7f050005
-			public const int TextAppearance_ShowcaseView_Detail_Light = 2131034117;
+			// aapt resource value: 0x7f070004
+			public const int TextAppearance_ShowcaseView_Detail_Light = 2131165188;
 			
-			// aapt resource value: 0x7f050006
-			public const int TextAppearance_ShowcaseView_Title = 2131034118;
+			// aapt resource value: 0x7f070005
+			public const int TextAppearance_ShowcaseView_Title = 2131165189;
 			
-			// aapt resource value: 0x7f050007
-			public const int TextAppearance_ShowcaseView_Title_Light = 2131034119;
+			// aapt resource value: 0x7f070006
+			public const int TextAppearance_ShowcaseView_Title_Light = 2131165190;
 			
 			static Style()
 			{
